@@ -1,1 +1,1 @@
-# thyroid-disease-detection
+Thyroid disease detection refers to the process of identifying dysfunctions in the thyroid gland, a small gland in the neck that regulates metabolism, growth, and development through hormone production. Detection involves evaluating hormone levels, identifying structural abnormalities, and determining whether the thyroid is overactive (hyperthyroidism), underactive (hypothyroidism), or affected by autoimmune conditions or cancer.
