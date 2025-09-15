@@ -1,0 +1,2 @@
+python ThyroidClassification.py
+pause
